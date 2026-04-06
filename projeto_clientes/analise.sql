@@ -1,6 +1,9 @@
-## 💻 Query
+-- 📊 Projeto: Análise de Clientes
 
-```sql
+-- Objetivo:
+-- Identificar clientes mais valiosos com base em quantidade de pedidos,
+-- faturamento total, ticket médio e Top 10.
+
 SELECT 
     nome,
     COUNT(*) AS qt_pedidos,
