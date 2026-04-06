@@ -1,7 +1,7 @@
 # 📊 Projeto: Análise de Clientes
 
 ## 🎯 Objetivo
-Analisar o comportamento de clientes com base no histórico de compras, identificando frequência, faturamento, ticket médio e o Top 10 clientes.
+Analisar o comportamento de clientes com base no histórico de compras, identificando frequência, faturamento, ticket médio e o Top 10 clientes com maior faturamento.
 
 ---
 
