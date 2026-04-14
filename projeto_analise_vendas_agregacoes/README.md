@@ -49,3 +49,8 @@ Uso de funções como:
 
 ---
 
+## 📊 Resultado da Análise
+
+A consulta apresenta uma visão hierárquica das vendas, incluindo subtotais por data e produto, além do total geral, utilizando a função ROLLUP para facilitar a análise de desempenho.
+
+![Resultado da análise](analise_vendas_rollup.png)
