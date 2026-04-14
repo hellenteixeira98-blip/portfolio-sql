@@ -46,3 +46,11 @@ A query utilizada está disponível no arquivo:
 ## 📌 Conclusão
 
 A análise permite identificar clientes mais valiosos e entender padrões de consumo, auxiliando estratégias de retenção e segmentação.
+
+---
+
+## 📊 Resultado da Análise
+
+A consulta apresenta métricas de clientes, incluindo quantidade de pedidos, total gasto e ticket médio, permitindo identificar padrões de consumo e comportamento da base.
+
+![Resultado da análise](analise_clientes_resultado.png)
