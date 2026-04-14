@@ -46,3 +46,10 @@ Aplicação de regras de negócio:
 - Impacto de aumento de custo em regiões específicas
 - Identificação de padrões por tipo de produto
 
+---
+
+## 📊 Resultado da Análise
+
+A consulta apresenta o custo total ajustado por estado, considerando a aplicação de regra de negócio com aumento de custo para clientes do estado de SP.
+
+![Resultado da análise](analise_custos_resultado.png)
