@@ -59,3 +59,12 @@ Arquivo: `03_analise_consolidada.sql`
 - Avaliar eficiência (tempo de duração)
 - Entender distribuição de orçamento
 - Comparar projetos com média geral
+
+
+---
+
+## 📊 Resultado da Análise
+
+A consulta apresenta uma visão consolidada dos projetos, incluindo classificação de investimento, status e duração, permitindo análise de desempenho e apoio à tomada de decisão.
+
+![Resultado da análise](analise_projetos_resultado.png)
